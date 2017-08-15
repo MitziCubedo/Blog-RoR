@@ -5,13 +5,23 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version => 2.4.0
+
+* Ruby on Rails => 5.1.3
+
+Run it:
+
+cd /ror/blog/
+
+rails server
+
+http://localhost:3000
 
 * System dependencies
 
 * Configuration
 
-* Database creation
+* Database creation: SQLite
 
 * Database initialization
 
