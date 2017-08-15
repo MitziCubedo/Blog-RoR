@@ -9,6 +9,11 @@ Things you may want to cover:
 
 * Ruby on Rails => 5.1.3
 
+Run it:
+
+cd /ror/blog/
+rails server
+
 * System dependencies
 
 * Configuration
