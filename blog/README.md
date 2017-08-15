@@ -15,6 +15,8 @@ cd /ror/blog/
 
 rails server
 
+http://localhost:3000
+
 * System dependencies
 
 * Configuration
