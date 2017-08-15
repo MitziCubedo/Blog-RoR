@@ -12,6 +12,7 @@ Things you may want to cover:
 Run it:
 
 cd /ror/blog/
+
 rails server
 
 * System dependencies
